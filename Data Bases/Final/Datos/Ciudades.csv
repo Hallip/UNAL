@@ -1,0 +1,449 @@
+Sharjah,SHJ,784,Sharjah
+Dubai,DXB,784,Dubai
+Abu Dhabi,AUH,784,Abu Dhabi
+Kabul,KBL,4,Kabul
+Tirana,TIA,8,Tirana
+Luanda,LAD,24,Luanda
+Usuahia,USH,32,Usuahia
+Buenos Aires,BUE,32,Buenos Aires
+Bahia Blanca,BHI,32,Bahia Blanca
+Viena,VIE,40,Viena
+Salzburgo,SZG,40,Salzburgo
+Linz,LNZ,40,Linz
+Klagenfurt,KLU,40,Klagenfurt
+Graz,GRZ,40,Graz
+Sydney,SYD,36,Sydney
+Perth,PER,36,Perth
+Melbourne,MEL,36,Melbourne
+Hobart,HBA,36,Hobart
+Cairns,CNS,36,Cairns
+Camberra,CBR,36,Camberra
+Adelaida,ADL,36,Adelaida
+Aruba,AUA,533,Aruba
+Sarajevo,SJJ,70,Sarajevo
+Barbados,BGI,52,Barbados
+Dhaka,DAC,50,Dhaka
+Bruselas,BRU,56,Bruselas
+Antwerp,ANR,56,Antwerp
+Sofia,SOF,100,Sofia
+Bahrain,BAH,48,Bahrain
+Bujumbura,BJM,108,Bujumbura
+Cotonou,COO,204,Cotonou
+Bermuda,BDA,60,Bermuda
+Bandar Seri,BWN,96,Bandar Seri
+Tarija,TJA,68,Tarija
+Santa Cruz De La Sierra,SRZ,68,Santa Cruz De La Sierra
+La Paz,LPB,68,La Paz
+Cochabamba,CBB,68,Cochabamba
+Vitoria,VIX,76,Vitoria
+Santos,SSZ,76,Santos
+Salvador,SSA,76,Salvador
+San Luis,SLZ,76,San Luis
+San Pablo,SAO,76,San Pablo
+Rio De Janeiro,RIO,76,Rio De Janeiro
+Recife,REC,76,Recife
+Sao Francisco Do Sul,QFS,76,Sao Francisco Do Sul
+Porto Alegre,POA,76,Porto Alegre
+Paranagua,PNG,76,Paranagua
+Natal,NAT,76,Natal
+Maceio,MCZ,76,Maceio
+Manaos,MAO,76,Manaos
+Joao Pessoa,JPA,76,Joao Pessoa
+Ilheus,IOS,76,Ilheus
+Foz Do Iguasu,IGU,76,Foz Do Iguasu
+Imbituba,IBB,76,Imbituba
+Goiania,GYN,76,Goiania
+Fortaleza,FOR,76,Fortaleza
+Florianopolis,FLN,76,Florianopolis
+Curitiba,CWB,76,Curitiba
+Cuiaba,CGB,76,Cuiaba
+Buzios,BZC,76,Buzios
+Brasilia,BSB,76,Brasilia
+Belo Horizonte,BHZ,76,Belo Horizonte
+Belem,BEL,76,Belem
+Aracaju,AJU,76,Aracaju
+Nassau,NAS,44,Nassau
+Freeport ,FPO,44,Freeport 
+Belice,BZE,84,Belice
+Victoria,YYJ,124,Victoria
+Calgary,YYC,124,Calgary
+Winnipeg,YWG,124,Winnipeg
+Vancouver,YVR,124,Vancouver
+Montreal,YUL,124,Montreal
+Toronto,YTO,124,Toronto
+Windsor,YQG,124,Windsor
+Ottawa,YOW,124,Ottawa
+Edmonton,YEG,124,Edmonton
+Bangui,BGF,140,Bangui
+Brazzaville,BZV,178,Brazzaville
+Zurich,ZRH,756,Zurich
+Ginebra,GVA,756,Ginebra
+Basilea,BSL,756,Basilea
+Berna,BRN,756,Berna
+Abidjan,ABJ,384,Abidjan
+Temuco,ZCO,152,Temuco
+Valparaiso,VAP,152,Valparaiso
+Talcahuano,THO,152,Talcahuano
+San Vicente,SVE,152,San Vicente
+Santiago De Chile,SCL,152,Santiago De Chile
+San Antonio,SAI,152,San Antonio
+Punta Arenas,PUQ,152,Punta Arenas
+Puerto Montt,PMC,152,Puerto Montt
+La Serena,LSC,152,La Serena
+Lirquen,LQN,152,Lirquen
+Iquique,IQQ,152,Iquique
+Is. De Pascua,IPC,152,Is. De Pascua
+Arica,ARI,152,Arica
+Antofagasta,ANF,152,Antofagasta
+Yaounde,YAO,120,Yaounde
+Douala,DLA,120,Douala
+Shanghai,SHA,156,Shanghai
+Pekin,PEK,156,Pekin
+Ningbo,NGB,156,Ningbo
+Dalian,DLC,156,Dalian
+Chiwan,CWN,156,Chiwan
+Guangzhou,CAN,156,Guangzhou
+Beijing,BJS,156,Beijing
+Santa Marta,SMR,170,Santa Marta
+Medellin,MDE,170,Medellin
+Cartagena,CTG,170,Cartagena
+Cali,CLO,170,Cali
+Buenaventura,BUN,170,Buenaventura
+Bogota,BOG,170,Bogota
+Barranquilla,BAQ,170,Barranquilla
+San Andres Is.,ADZ,170,San Andres Is.
+San Jose ( C. R. ),SJO,188,San Jose ( C. R. )
+Puerto Limon,LIO,188,Puerto Limon
+Puerto Caldera,CAL,188,Puerto Caldera
+Varadero,VRA,192,Varadero
+Manzanillo,MZO,192,Manzanillo
+Holguin,HOG,192,Holguin
+La Habana,HAV,192,La Habana
+Cayo Largo Del Sur,CYO,192,Cayo Largo Del Sur
+Ciego De Avila,AVI,192,Ciego De Avila
+Ilha Do Sal,SID,132,Ilha Do Sal
+Paphos,PFO,196,Paphos
+Nicosia,NIC,196,Nicosia
+Larnaca,LCA,196,Larnaca
+Berlin,VER,276,Berlin
+Stuttgart,STR,276,Stuttgart
+Munich,MUC,276,Munich
+Leipzig,LEJ,276,Leipzig
+Hamburgo,HAM,276,Hamburgo
+Frankfurt,FRA,276,Frankfurt
+Dusseldorf,DUS,276,Dusseldorf
+Dresde,DRS,276,Dresde
+Colonia/Bonn,CGN,276,Colonia/Bonn
+Bremenhaven,BRE,276,Bremenhaven
+Yibuti,JIB,262,Yibuti
+Copenhague,CPH,208,Copenhague
+Argel,ALG,12,Argel
+Quito,UIO,218,Quito
+Guayaquil,GYE,218,Guayaquil
+Cairo,CAI,818,Cairo
+Alejandria,ALY,818,Alejandria
+Asmara,ASM,232,Asmara
+Zaragoza,ZAZ,724,Zaragoza
+Valencia,VLC,724,Valencia
+Vitoria,VIT,724,Vitoria
+Vigo,VGO,724,Vigo
+Sevilla,SVQ,724,Sevilla
+Santander,SDR,724,Santander
+Santiago De Compostera,SCQ,724,Santiago De Compostera
+Pamplona,PNA,724,Pamplona
+Palma De Mallorca,PMI,724,Palma De Mallorca
+Oviedo,OVD,724,Oviedo
+Murcia,MJV,724,Murcia
+Menorca,MAH,724,Menorca
+Madrid,MAD,724,Madrid
+Almeira,LEI,724,Almeira
+La Corusa,LCG,724,La Corusa
+Ibiza,IBZ,724,Ibiza
+Bilbao,BIO,724,Bilbao
+Barcelona,BCN,724,Barcelona
+Alicante,ALC,724,Alicante
+Malaga,AGP,724,Malaga
+Dire Dawa,DIR,231,Dire Dawa
+Addis Ababa,ADD,231,Addis Ababa
+Helsinki,HEL,246,Helsinki
+Suva,SUV,242,Suva
+Nadi,NAN,242,Nadi
+Estrasburgo,SXB,250,Estrasburgo
+Paris,PAR,250,Paris
+Niza,NCE,250,Niza
+Marsella,MRS,250,Marsella
+Mulhouse,MLH,250,Mulhouse
+Lyon,LYS,250,Lyon
+Lille,LIL,250,Lille
+Le Havre,LHV,250,Le Havre
+Bordeaux,BOD,250,Bordeaux
+Libreville,LBV,266,Libreville
+Teesside,MME,826,Teesside
+Londres,LON,826,Londres
+Leeds,LBA,826,Leeds
+Glasgow,GLA,826,Glasgow
+East Midlands,EMA,826,East Midlands
+Edimburgo,EDI,826,Edimburgo
+Belfast,BHD,826,Belfast
+Granada,GND,308,Granada
+Cayenne,CAY,254,Cayenne
+Accra,ACC,288,Accra
+Gibraltar,GIB,292,Gibraltar
+Gaborone,GBE,292,Gaborone
+Banjul,BJL,270,Banjul
+Conakry,CKY,324,Conakry
+St. Martin,SFG,312,St. Martin
+Pointe A Prite,PTP,312,Pointe A Prite
+Atenas,ARH,300,Atenas
+Puerto Quetzal ,PRQ,320,Puerto Quetzal 
+Guatemala,GUA,320,Guatemala
+Georgetown,GEO,328,Georgetown
+Hong Kong,HKG,344,Hong Kong
+Tegucigalpa,TGU,340,Tegucigalpa
+San Pedro Sula,SAP,340,San Pedro Sula
+Puerto Cortes,PCR,340,Puerto Cortes
+Zagreb,ZAG,191,Zagreb
+Dubrobvnik,DBV,191,Dubrobvnik
+Puerto Prsncipe,PAP,332,Puerto Prsncipe
+Budapest,BUD,348,Budapest
+Jakarta,JKT,360,Jakarta
+Denpasar,DPS,360,Denpasar
+Shannon,SNN,372,Shannon
+Dublin,DUB,372,Dublin
+Tel Aviv,TLV,376,Tel Aviv
+Jerusalem,JRS,376,Jerusalem
+Madras,MAA,356,Madras
+Delhi,DEL,356,Delhi
+Calcuta,CCU,356,Calcuta
+Bombay,BOM,356,Bombay
+Basra,BSR,368,Basra
+Baghdad,BGW,368,Baghdad
+Teheran,THR,364,Teheran
+Abadan,ABD,364,Abadan
+Reykjavyk,REK,352,Reykjavyk
+Torino,TRN,380,Torino
+Spezia,SPE,380,Spezia
+Roma,ROM,380,Roma
+Palermo,PMO,380,Palermo
+Napoles,NAP,380,Napoles
+Milan,MIL,380,Milan
+Florencia,FLR,380,Florencia
+Bari,BRI,380,Bari
+Bolonia,BLQ,380,Bolonia
+Montego Bay,MBJ,388,Montego Bay
+Kingston,KIN,388,Kingston
+Amman,AMM,400,Amman
+Yokohama,YOK,392,Yokohama
+Tokio,TYO,392,Tokio
+Osaka,OSA,392,Osaka
+Okinawa,OKA,392,Okinawa
+Nagoya,NGO,392,Nagoya
+Fukuoka,FUK,392,Fukuoka
+Nairobi,NBO,404,Nairobi
+Moroni,YVA,174,Moroni
+Seul,SEL,410,Seul
+Busan,PUS,410,Busan
+Kuwait,KWI,414,Kuwait
+Astana,TST,398,Astana
+Beirut,BEY,422,Beirut
+Santa Lucia,SLU,662,Santa Lucia
+Colombo,CMB,144,Colombo
+Monrovia,MLW,430,Monrovia
+Luxemburgo,LUX,442,Luxemburgo
+Tripoli,KYE,434,Tripoli
+Benghazi,BEN,434,Benghazi
+Tanger,TNG,504,Tanger
+Rabat,RBA,504,Rabat
+Marrakech,RAK,504,Marrakech
+Casablanca,CAS,504,Casablanca
+Antananarivo,TNR,450,Antananarivo
+Bamako,BKO,466,Bamako
+Ulan Bator,ULN,496,Ulan Bator
+Fort De France,FDF,474,Fort De France
+Nouakchott,NKC,478,Nouakchott
+Malta,MLA,470,Malta
+Mauricio,MRU,480,Mauricio
+Lilongwe,LLW,454,Lilongwe
+Blantyre,BLZ,454,Blantyre
+Manzanillo,ZLO,484,Manzanillo
+Ixtapa,ZIH,484,Ixtapa
+Veracruz,VER,484,Veracruz
+Tampico,TAM,484,Tampico
+Puerto Vallarta,PVR,484,Puerto Vallarta
+Puerto Progreso,PGO,484,Puerto Progreso
+Mazatlan,MZT,484,Mazatlan
+Monterrey,MTY,484,Monterrey
+Merida,MID,484,Merida
+Lazaro Cardenas,LZC,484,Lazaro Cardenas
+Guaymas,GYM,484,Guaymas
+Guadalajara,GDL,484,Guadalajara
+Cozumel,CZM,484,Cozumel
+Cancun,CUN,484,Cancun
+Altamira,ALT,484,Altamira
+Penang,PEN,458,Penang
+Kuala Lumpur,KUL,458,Kuala Lumpur
+Maputo,MPM,508,Maputo
+Windhoek,WDH,516,Windhoek
+Niamey,NIM,566,Niamey
+Lagos,LOS,566,Lagos
+Kano,KAN,566,Kano
+Managua,MGA,558,Managua
+Corinto,CIO,558,Corinto
+Amsterdam,AMS,528,Amsterdam
+Stavanger,SVG,578,Stavanger
+Oslo,OSL,578,Oslo
+Kristiansand,KRS,578,Kristiansand
+Bergen,BGO,578,Bergen
+Katmandu,KTM,524,Katmandu
+Wellington,WLG,554,Wellington
+Christchurch,CHC,554,Christchurch
+Auckland,AKL,554,Auckland
+Muscat,MCT,512,Muscat
+Panama,PTY,591,Panama
+Colon ,ONX,591,Colon 
+Manzanillo,MIT,591,Manzanillo
+Trujillo,TRU,604,Trujillo
+Tarapoto,TPP,604,Tarapoto
+Tacna,TCQ,604,Tacna
+Tumbes,TBP,604,Tumbes
+Piura,PIU,604,Piura
+Puerto Maldonado,PEM,604,Puerto Maldonado
+Pucalpa,PCL,604,Pucalpa
+Paita,PAI,604,Paita
+Matarani,MRI,604,Matarani
+Lima,LIM,604,Lima
+Juliaca,JUL,604,Juliaca
+Iquitos,IQT,604,Iquitos
+Ilo,ILO,604,Ilo
+Callao,CLL,604,Callao
+Chiclayo,CIX,604,Chiclayo
+Chimbote,CHM,604,Chimbote
+Ayacucho,AYP,604,Ayacucho
+Arequipa,AQP,604,Arequipa
+Papeete,PPT,258,Papeete
+Manila,MNL,608,Manila
+Karachi,KHI,586,Karachi
+Islamabad,ISB,586,Islamabad
+Varsovia,WAW,616,Varsovia
+San Juan ( P. R ),SJU,630,San Juan ( P. R )
+Sines,SIE,620,Sines
+Oporto,OPO,620,Oporto
+Lisboa,LIS,620,Lisboa
+Funchal Isla Madeira,FNC,620,Funchal Isla Madeira
+Faro,FAO,620,Faro
+Asuncion,ASU,600,Asuncion
+Doha,DOH,634,Doha
+Timisoara,TSR,642,Timisoara
+Bucarest,BUH,642,Bucarest
+Kigali,KGL,646,Kigali
+Riyadh,RUH,682,Riyadh
+Jeddah,JED,682,Jeddah
+Dhahran,DHA,682,Dhahran
+Mahe Island,SEZ,690,Mahe Island
+Khartoum,KRT,729,Khartoum
+Estocolmo,STO,752,Estocolmo
+Malmo,MMA,752,Malmo
+Estambul,IST,752,Estambul
+Gotemburgo,GOT,752,Gotemburgo
+Singapur,SIN,702,Singapur
+Ljubljana,LJU,705,Ljubljana
+Bratislava,BTS,703,Bratislava
+Freetown,FNA,694,Freetown
+Dakar,DKR,686,Dakar
+Mogadishu,MGQ,706,Mogadishu
+Paramaribo,PBM,740,Paramaribo
+San Salvador,SAL,222,San Salvador
+Damasco,DAM,760,Damasco
+Aleppo,ALP,760,Aleppo
+NsDjamena,NDJ,148,NsDjamena
+Lome,LFW,768,Lome
+Phuket,HKT,764,Phuket
+Bangkok,BKK,764,Bangkok
+Tunez,TUN,788,Tunez
+Tongatapu,TBU,776,Tongatapu
+Esmirna,IZM,792,Esmirna
+Antalya,AYT,792,Antalya
+Ankara,ANK,792,Ankara
+Taipei,TPE,158,Taipei
+Kaohsiung,KHH,158,Kaohsiung
+Odesa,ODS,804,Odesa
+Kiev,IEV,804,Kiev
+Entebbe Kampala,EBB,800,Entebbe Kampala
+Washington D. C.,WAS,840,Washington D. C.
+Vancouver,VAN,840,Vancouver
+Tucson,TUS,840,Tucson
+Tampa,TPA,840,Tampa
+St. Louis,STL,840,St. Louis
+Salt Lake City,SLC,840,Salt Lake City
+San Jose ( C.A.L ),SJC,840,San Jose ( C.A.L )
+San Francisco,SFO,840,San Francisco
+Seattle,SEA,840,Seattle
+Savannah,SAV,840,Savannah
+San Diego,SAN,840,San Diego
+Rochester,ROC,840,Rochester
+Richmond,RIC,840,Richmond
+Raleigh,RDU,840,Raleigh
+Pittsburgo,PIT,840,Pittsburgo
+St. Petersburgo,PIE,840,St. Petersburgo
+Phoenix,PHX,840,Phoenix
+Filadelfia,PHL,840,Filadelfia
+Everglades,PEF,840,Everglades
+Portland,PDX,840,Portland
+Orlando,ORL,840,Orlando
+New York,NYC,840,New York
+Norfolk,NOR,840,Norfolk
+New Orleans,MSY,840,New Orleans
+Minneapolis,MSP,840,Minneapolis
+Milwaukee,MKE,840,Milwaukee
+Kansas,MKC,840,Kansas
+Miami,MIA,840,Miami
+Memphis,MEM,840,Memphis
+Long Beach,LGB,840,Long Beach
+Los Angeles,LAX,840,Los Angeles
+Las Vegas,LAS,840,Las Vegas
+Jaksonville,JAX,840,Jaksonville
+Indianappolis,IND,840,Indianappolis
+Houston,HOU,840,Houston
+Honolulu,HNL,840,Honolulu
+Newark,EWR,840,Newark
+Detroit,DTT,840,Detroit
+Dallas,DFW,840,Dallas
+Denver,DEN,840,Denver
+Dayton,DAY,840,Dayton
+Cincinati,CVG,840,Cincinati
+Columbus,CMH,840,Columbus
+Cleveland,CLE,840,Cleveland
+Charleston,CHS,840,Charleston
+Chicago,CHI,840,Chicago
+Baltimore,BWI,840,Baltimore
+Buffalo,BUF,840,Buffalo
+Boston,BOS,840,Boston
+Hartford,BOL,840,Hartford
+Nashville,BNA,840,Nashville
+Atlanta,ATL,840,Atlanta
+Anchorage,ANC,840,Anchorage
+Punta Del Este,PDP,858,Punta Del Este
+Montevideo,MVD,858,Montevideo
+Colonia,CYR,858,Colonia
+Taskent,TAS,860,Taskent
+Valencia,VLN,862,Valencia
+Porlamar,PMV,862,Porlamar
+Puerto Cabello,PBL,862,Puerto Cabello
+Maracaibo,MAR,862,Maracaibo
+La Guaira,LAG,862,La Guaira
+Caracas,CCS,862,Caracas
+Ho Chi Minh,SGN,704,Ho Chi Minh
+Handi,HAN,704,Handi
+Apia,APW,882,Apia
+Sana,SAH,887,Sana
+Aden,ADE,887,Aden
+Pretoria,PRY,710,Pretoria
+Port Elizabeth,PEZ,710,Port Elizabeth
+Johannesburgo,JNB,710,Johannesburgo
+Durban,DUR,710,Durban
+Cape Town,CTW,710,Cape Town
+Ciudad Del Cabo,CPT,710,Ciudad Del Cabo
+Lusaka,LUN,894,Lusaka
+Cataratas Victoria,VFA,716,Cataratas Victoria
+Harare,HRE,716,Harare
+Bulawayo,BUQ,716,Bulawayo

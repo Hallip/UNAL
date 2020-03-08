@@ -1,0 +1,18 @@
+{
+  "Client": "Juan Montoya",
+  "Address": "Crr 72 Bis No 53-48",
+  "Piority": 2,
+  "weight": 3,
+  "unit": "kg",
+  "location": {
+    "lat": 4.6775397,
+    "lon": -74.1122391
+  },
+  "shippingDate": "04-10-2019T10:41:03.321Z",
+  "wasSent": true,
+  "sendInfo":{
+    "truckPlates": "XYZ 321",
+    "driver": "Benito Perez"
+  },
+  "wasDelivered": false
+}

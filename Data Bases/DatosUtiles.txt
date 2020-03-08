@@ -1,0 +1,73 @@
+Servidores en la U.N.
+Información suministrada por la oficina de comunicaciones de la U.N. para los accesos a los servidores de Bases de Datos del Curso.
+
+Trabajo dentro de la Universidad
+Acceso al servidor SAP ASE uno, utilizar la dirección 10.240.0.12 Puerto 8101
+Acceso al servidor SAP ASE dos, utilizar la dirección 10.240.0.13 Puerto 8101
+Acceso al servidor Microsoft SQL Server uno, utilizar la dirección 10.240.0.11 Puerto 1433
+Acceso al servidor Microsoft SQL Server dos, utilizar la dirección 168.176.26.48 Puerto 1433
+Acceso al servidor ORACLE uno, utilizar la dirección 168.176.26.48 Puerto 1521
+Acceso al servidor ORACLE dos, utilizar la dirección 168.176.37.130 Puerto 1521
+Acceso al servidor MySQL, utilizar la dirección 168.176.26.48 Puerto 3306
+
+Trabajo desde la casa sin VPN
+Acceso al servidor SAP ASE uno, utilizar la dirección 168.176.65.36 Puerto 8101
+Acceso al servidor SAP ASE dos, utilizar la dirección 168.176.65.37 Puerto 8101
+Acceso al servidor Microsoft SQL Server uno, utilizar la dirección 168.176.65.35 Puerto 1433
+
+Trabajo desde la casa con VPN
+Acceso al servidor ORACLE uno, utilizar la dirección 168.176.26.48 Puerto 1521
+Acceso al servidor ORACLE dos, utilizar la dirección 168.176.37.130 Puerto 1521
+Acceso al servidor Microsoft SQL Server dos, utilizar la dirección 168.176.26.48 Puerto 1433
+Acceso al servidor MySQL, utilizar la dirección 168.176.26.48 Puerto 3306
+
+Cualquier otra información que me den de dicha oficina se las haré conocer.
+
+En caso de dificultades comunicarse con el teléfono 3165000 ext. 81000
+
+
+
+Encargado de los servidores ASE SAP 1, ASE SAP 2, ORACLE 1 y Microsoft SQL 2
+"Juan Carlos Gutierrez Cortes" <jucgutierrezco@unal.edu.co>
+
+Manuales ASE SAP
+Acceso a todos los manuales 
+Reference Manual: Commands
+Transact-SQL Users Guide 
+Manuales ASE
+
+Manuales Base de Datos Oracle
+Manuales de Oracle 12cR2 
+Manuales Oracle 18c 
+Database PL/SQL Language Reference
+SQL Language Reference
+SQL*Plus User's Guide and Reference
+Create table 
+Select
+SQL Data Types
+Producto SQL Developer
+SQL Developer Data Modeler 
+Oracle Application Express (APEX) 
+Oracle Database 12c Application Development
+
+Manuales SQL Server
+Documentacion general 
+SQL Server Documentation 
+Download SQL Server Management Studio (SSMS)
+Transact-SQL statements 
+Create table
+Select
+Documentación de soporte para sqlcmd  ref1  ref2  ref3
+
+Información general
+DB-Engines Ranking 
+DB- Trend Popularity 
+
+Productos Quest
+Quest 
+Productos Quest 
+Academic program 
+
+Herramienta PowerDesigner 
+Manuales en el PC (típicamente): C:\Program Files (x86)\Sybase\PowerDesigner 16\Documentation
+

@@ -1,0 +1,109 @@
+Vendedor Voz a Voz,comercial,Bogota,comercial,2000000,3000000
+Vendedor Call Center,comercial,Bogota,comercial,2000000,3000000
+Web Seller,comercial,Bogota,comercial,2000000,3000000
+Psicologia,recursos humanos,Bogota,recursos humanos,2500000,3500000
+Contratacion,recursos humanos,Bogota,recursos humanos,2000000,3000000
+Contador,financiero,Bogota,financiero,3000000,4000000
+Auditor,financiero,Bogota,financiero,3000000,4000000
+Asesor Juridico,administrativo,Bogota,administrativo,7000000,8000000
+Administrador,administrativo,Bogota,administrativo,7000000,8000000
+Vendedor Voz a Voz,comercial,Cali,comercial,2000000,3000000
+Vendedor Call Center,comercial,Cali,comercial,2500000,3500000
+Web Seller,comercial,Cali,comercial,2000000,3000000
+Psicologia,recursos humanos,Cali,recursos humanos,3000000,4000000
+Contratacion,recursos humanos,Cali,recursos humanos,2700000,3700000
+Contador,financiero,Cali,financiero,3000000,4000000
+Auditor,financiero,Cali,financiero,2700000,3700000
+Asesor Juridico,administrativo,Cali,administrativo,7000000,8000000
+Administrador,administrativo,Cali,administrativo,7000000,8000000
+Vendedor Voz a Voz,comercial,Medellin,comercial,2000000,3000000
+Vendedor Call Center,comercial,Medellin,comercial,2000000,3000000
+Psicologia,recursos humanos,Medellin,recursos humanos,2700000,3700000
+Contador,financiero,Medellin,financiero,2000000,3000000
+Asesor Juridico,administrativo,Medellin,administrativo,6500000,7500000
+Administrador,administrativo,Medellin,administrativo,7000000,8000000
+Vendedor Voz a Voz,comercial,Barranquilla,comercial,2500000,3500000
+Vendedor Call Center,comercial,Barranquilla,comercial,2500000,3500000
+Contador,financiero,Barranquilla,financiero,2500000,3500000
+Auditor,financiero,Barranquilla,financiero,2500000,3500000
+Asesor Contable,financiero,Barranquilla,financiero,3000000,4000000
+Vendedor Voz a Voz,comercial,La Habana,comercial,2500000,3500000
+Contador,financiero,La Habana,financiero,2700000,3700000
+Auditor,financiero,La Habana,financiero,2000000,3000000
+Vendedor Voz a Voz,comercial,Berlin,comercial,2000000,3000000
+Vendedor Call Center,comercial,Berlin,comercial,2000000,3000000
+Web Seller,comercial,Berlin,comercial,2500000,3500000
+Contador,financiero,Berlin,financiero,3000000,4000000
+Asesor Juridico,administrativo,Berlin,administrativo,6500000,7500000
+Administrador,administrativo,Berlin,administrativo,6500000,7500000
+Planner,administrativo,Berlin,administrativo,6500000,7500000
+Vendedor Voz a Voz,comercial,Copenhague,comercial,2500000,3500000
+Vendedor Call Center,comercial,Copenhague,comercial,2500000,3500000
+Vendedor Voz a Voz,comercial,Bilbao,comercial,2000000,3000000
+Vendedor Call Center,comercial,Bilbao,comercial,2000000,3000000
+Contador,financiero,Bilbao,financiero,2500000,3500000
+Vendedor Voz a Voz,comercial,Barcelona,comercial,2500000,3500000
+Vendedor Call Center,comercial,Barcelona,comercial,2500000,3500000
+Web Seller,comercial,Barcelona,comercial,2000000,3000000
+Contador,financiero,Barcelona,financiero,2700000,3700000
+Asesor Juridico,administrativo,Barcelona,administrativo,6500000,7500000
+Administrador,administrativo,Barcelona,administrativo,6500000,7500000
+Planner,administrativo,Barcelona,administrativo,6500000,7500000
+Vendedor Voz a Voz,comercial,Helsinki,comercial,2000000,3000000
+Contador,financiero,Helsinki,financiero,3500000,4500000
+Auditor,financiero,Helsinki,financiero,3500000,4500000
+Asesor Juridico,administrativo,Helsinki,administrativo,7000000,8000000
+Administrador,administrativo,Helsinki,administrativo,7000000,8000000
+Planner,administrativo,Helsinki,administrativo,7000000,8000000
+Vendedor Voz a Voz,comercial,Paris,comercial,2500000,3500000
+Vendedor Call Center,comercial,Paris,comercial,2000000,3000000
+Web Seller,comercial,Paris,comercial,2000000,3000000
+Contador,financiero,Paris,financiero,3500000,4500000
+Auditor,financiero,Paris,financiero,2700000,3700000
+Psicologia,recursos humanos,Paris,recursos humanos,2700000,3700000
+Asesor Juridico,administrativo,Paris,administrativo,6500000,7500000
+Administrador,administrativo,Paris,administrativo,7000000,8000000
+Vendedor Voz a Voz,comercial,Londres,comercial,2000000,3000000
+Vendedor Call Center,comercial,Londres,comercial,2000000,3000000
+Contador,financiero,Londres,financiero,3500000,4500000
+Psicologia,recursos humanos,Londres,recursos humanos,2700000,3700000
+Contratacion,recursos humanos,Londres,recursos humanos,3000000,4000000
+Asesor Juridico,administrativo,Londres,administrativo,6500000,7500000
+Director de Departamento,comercial,Bogota,comercial,10000000,12000000
+Director de Departamento,recursos humanos,Bogota,recursos humanos,10000000,12000000
+Director de Departamento,financiero,Bogota,financiero,10000000,12000000
+Director de Departamento,administrativo,Bogota,administrativo,10000000,12000000
+Director de Departamento,comercial,Cali,comercial,10000000,12000000
+Director de Departamento,recursos humanos,Cali,recursos humanos,10000000,12000000
+Director de Departamento,financiero,Cali,financiero,10000000,12000000
+Director de Departamento,administrativo,Cali,administrativo,10000000,12000000
+Director de Departamento,comercial,Medellin,comercial,10000000,12000000
+Director de Departamento,recursos humanos,Medellin,recursos humanos,10000000,12000000
+Director de Departamento,financiero,Medellin,financiero,10000000,12000000
+Director de Departamento,administrativo,Medellin,administrativo,10000000,12000000
+Director de Departamento,comercial,Barranquilla,comercial,10000000,12000000
+Director de Departamento,financiero,Barranquilla,financiero,10000000,12000000
+Director de Departamento,comercial,La Habana,comercial,10000000,12000000
+Director de Departamento,financiero,La Habana,financiero,10000000,12000000
+Director de Departamento,comercial,Berlin,comercial,10000000,12000000
+Director de Departamento,financiero,Berlin,financiero,10000000,12000000
+Director de Departamento,administrativo,Berlin,administrativo,10000000,12000000
+Director de Departamento,comercial,Copenhague,comercial,10000000,12000000
+Director de Departamento,comercial,Bilbao,comercial,10000000,12000000
+Director de Departamento,financiero,Bilbao,financiero,10000000,12000000
+Director de Departamento,comercial,Barcelona,comercial,10000000,12000000
+Director de Departamento,financiero,Barcelona,financiero,10000000,12000000
+Director de Departamento,administrativo,Barcelona,administrativo,10000000,12000000
+Director de Departamento,comercial,Helsinki,comercial,10000000,12000000
+Director de Departamento,financiero,Helsinki,financiero,10000000,12000000
+Director de Departamento,administrativo,Helsinki,administrativo,10000000,12000000
+Director de Departamento,comercial,Paris,comercial,10000000,12000000
+Director de Departamento,financiero,Paris,financiero,10000000,12000000
+Director de Departamento,recursos humanos,Paris,recursos humanos,10000000,12000000
+Director de Departamento,administrativo,Paris,administrativo,10000000,12000000
+Director de Departamento,comercial,Londres,comercial,10000000,12000000
+Director de Departamento,financiero,Londres,financiero,10000000,12000000
+Director de Departamento,recursos humanos,Londres,recursos humanos,10000000,12000000
+Director de Departamento,administrativo,Londres,administrativo,10000000,12000000
+Gerente,administrativo,Bogota,administrativo,20000000,25000000
+Sub Gerente,administrativo,Bogota,administrativo,15000000,17000000

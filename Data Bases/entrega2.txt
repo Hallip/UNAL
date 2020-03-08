@@ -1,0 +1,37 @@
+create table Empleados_G22(
+Documento bigint,
+Nombres varchar(40),
+Apellidos varchar(40),
+Telefono bigint,
+Celular bigint,
+Direccion varchar(40),
+Genero varchar(40),
+Correo_Electronico varchar(40),
+Fecha_Ingreso date,
+Departamento varchar(40),
+Cargo varchar(40),
+Salario_Mensual bigint,
+Comision varchar(40) null,
+Documento_Cliente1 bigint null,
+Nombre_Cliente1 varchar(40) null,
+Telefono_Cliente1 bigint null,
+Documento_Cliente2 bigint null,
+Nombre_Cliente2 varchar(40) null,
+Telefono_Cliente2 bigint null,
+Documento_Cliente3 bigint null,
+Nombre_Cliente3 varchar(40) null,
+Telefono_Cliente3 bigint null,
+digitador varchar (15) default user_name() not null,
+fecha datetime default getdate () not null)
+
+create view VISTA_1 as
+select Documento,Nombres,Apellidos,Telefono,Celular,Direccion,Genero,Correo_Electronico,Fecha_Ingreso,Departamento,Cargo,Salario_Mensual,Comision,Documento_Cliente1,Nombre_Cliente1,Telefono_Cliente1,Documento_Cliente2,Nombre_Cliente2,Telefono_Cliente2,Documento_Cliente3,Nombre_Cliente3,Telefono_Cliente3 from Empleados_G22
+
+grant insert on VISTA_1 to dfvesgao,anmorenop,jmontoyav,edsegurag,jugonzalezv
+
+create view VISTA_2 as
+select * from Empleados_G22 where digitador = user_name ()
+
+grant select on VISTA_2 to dfvesgao,anmorenop,jmontoyav,edsegurag
+
+insert jugonzalezv.VISTA_1

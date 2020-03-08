@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" >
+<link rel="stylesheet" href="./style.css">
+<head>
+  <meta charset="UTF-8">
+  <title>Custom FIle Upload</title>
+  <script type="text/javascript" src="/eel.js"></script>
+
+  <script type="text/javascript">
+
+        
+
+        // Call Python function, and pass explicit callback function
+        eel.testT()("print_num");
+
+
+    </script>
+
+
+</head>
+<body>
+
+  <h1>Flat UI - Custom Input:file</h1>
+  <h2>With JS return</h2>
+<div>
+  <form action="#">
+    <div class="input-file-container">
+      <input class="input-file" id="fileInput" type="file" accept=".json,.txt">
+      <label tabindex="0" for="my-file" class="input-file-trigger">Select a file...</label>
+    </div>
+    <button type="button" name="button" class="file-return"  id="fileInput" onclick="doc()"></button>
+
+  </form>
+  <p class="txtcenter">It's just a test, not really usable.<br />Works on IE &gt; 8 and modern browsers</p>
+  <p class="txtcenter copy">by <a href="https://twitter.com/geoffreycrofte">@geoffreycrofte</a><br />see also <a href="https://codepen.io/CreativeJuiz/pen/uEHeD">Custom input:file with CSS only</a></p>
+</div>
+
+<div id="page-wrapper">
+
+		<p id="fileDisplayArea" class="hide">Text File Reader</p>
+		<pre id="fileDisplayArea"><pre>
+
+</div>
+
+<!-- partial -->
+<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src="./script.js"></script>
+</body>
+</html>

@@ -1,0 +1,71 @@
+
+void setup() {
+
+  size(600, 600);  // Tamaño del lienzo
+}
+
+int player = 1;
+
+boolean validador = false;
+
+boolean p1 = false;
+boolean p2 = false;
+boolean p3 = false;
+boolean p4 = false;
+
+void draw() {
+  background(247, 191, 190);
+  strokeWeight(0);
+
+  validar();
+  if(mousePressed && (mouseX > 300 && mouseX < 400) && (mouseY > 50 && mouseY < 54)){
+    p1 = true;
+    validador = true;
+  }
+  if(mousePressed && (mouseX > 300 && mouseX < 400) && (mouseY > 150 && mouseY < 154)){
+    p2 = true;
+    validador = true;
+  }
+  //rect(300,50,4,100);
+  if(validador){
+    if (player == 1)player = 2;
+    else player = 1;
+    validador = false;
+  }
+
+  color cp1 = get(300,50 );
+  color cp2 = get(300,150 );
+}
+
+
+
+void validar() {
+
+    if(p1){
+      if(player == 1 && cp1 == 150, 152, 154){
+        fill(0, 256, 0);
+        rect(300, 50, 100, 4);
+      }
+      if(player == 2  && cp1 == 150, 152, 154){
+        fill(256, 0, 0);
+        rect(300, 50, 100, 4);
+      }
+
+    }else{
+      fill(150, 152, 154);
+      rect(300, 50, 100, 4);
+    }
+    if(p2){
+      if(player == 1  && cp2 == 150, 152, 154){
+        fill(0, 256, 0);
+        rect(300, 150, 100, 4);
+      }
+      if(player == 2  && cp1 == 150, 152, 154){
+        fill(256, 0, 0);
+        rect(300, 150, 100, 4);
+      }
+    }else{
+      fill(150, 152, 154);
+      rect(300, 150, 100, 4);
+    }
+}
